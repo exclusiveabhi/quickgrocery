@@ -40,4 +40,4 @@ We welcome and appreciate contributions! To contribute to Quick Grocery, please 
 
 This project is licensed under the [MIT License](LICENSE). Feel free to customize and use it to build your own online grocery store!
 
----Copyright By Abhishek Rajput ---
+                                                    ---Copyright By Abhishek Rajput ---
