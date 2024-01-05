@@ -20,7 +20,7 @@ Welcome to Quick Grocery – your go-to solution for launching a robust online g
 
 - **Front End:** [HTML,CSS,JavaScript]
 
-- **Back End:** PHP]
+- **Back End:** [PHP]
 
 - **Database:** [ MySQL]
 
@@ -40,4 +40,4 @@ We welcome and appreciate contributions! To contribute to Quick Grocery, please 
 
 This project is licensed under the [MIT License](LICENSE). Feel free to customize and use it to build your own online grocery store!
 
-                                                    ---Copyright By Abhishek Rajput ---
+                                     ---Copyright By Abhishek Rajput ---
